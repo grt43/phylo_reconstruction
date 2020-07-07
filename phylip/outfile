@@ -1,0 +1,53 @@
+
+Nucleic acid sequence Maximum Likelihood method, version 3.697
+
+
+Empirical Base Frequencies:
+
+   A       0.29326
+   C       0.19065
+   G       0.19578
+  T(U)     0.32031
+
+
+Transition/transversion ratio =   2.000000
+
+
+              +------------------gorilla   
+           +--3  
+           |  +---------------green     
+  +--------2  
+  |        |           +human     
+  |        +-----------1  
+  |                    |             +--------------------chimp     
+  |                    +-------------5  
+  |                                  +------------------orangutan 
+  |  
+  4------------------------golden    
+  |  
+  +-----gibbon    
+
+
+remember: this is an unrooted tree!
+
+Ln Likelihood = -46648.83465
+
+ Between        And            Length      Approx. Confidence Limits
+ -------        ---            ------      ------- ---------- ------
+
+     4          gibbon            1.22929     (  0.02446,     2.40510) **
+     4             2              1.82491     (  0.49423,     3.15479) **
+     2             3              0.12230     (     zero,     1.39830)
+     3          gorilla           3.81994     (  1.66753,     5.96784) **
+     3          green             3.09816     (  1.66586,     4.52893) **
+     2             1              2.39405     (  1.28693,     3.50105) **
+     1          human             0.00006     (     zero,     1.01777)
+     1             5              2.87046     (  0.09430,     5.64655) **
+     5          chimp             4.14481     (  0.16148,     8.12812) **
+     5          orangutan         3.75325     (  0.52778,     6.97871) **
+     4          golden            4.93107     (  2.41379,     7.44835) **
+
+     *  = significantly positive, P < 0.05
+     ** = significantly positive, P < 0.01
+
+

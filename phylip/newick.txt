@@ -1,0 +1,2 @@
+((Human:0.00006, (Chimp:4.14481, Orangutan:3.75325):2.87046):1.97025,
+((Green_Monkey:3.09816, Gorilla:3.81994):0.12230, (Golden_Snub_Nosed_Monkey:4.93107, Gibbon:1.22929):1.82491):1.97025);
